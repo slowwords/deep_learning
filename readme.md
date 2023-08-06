@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 #### AutoEncoder
 
-<img src="E:\answer\imgs\AutoEncoder.png" alt="AutoEncoder" style="zoom: 50%;" />
+<img src=".\imgs\AutoEncoder.png" alt="AutoEncoder" style="zoom: 50%;" />
 
 Auto-Encoder，中文称作自编码器，是一种无监督式学习模型。它基于反向传播算法与最优化方法（如梯度下降法)，利用输入数据X本身作为监督，来指导神经网络尝试学习一个映射关系，从而得到一个重构输出X'。
 
